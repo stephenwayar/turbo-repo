@@ -1,0 +1,1 @@
+module.exports = require('@repo/postcss-config/postcss.config.js')
